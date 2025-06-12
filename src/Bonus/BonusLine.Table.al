@@ -44,8 +44,8 @@ table 65401 "MNB Bonus Line"
         // Add changes to field groups here
     }
 
-    var
-        myInt: Integer;
+    // var
+    //     myInt: Integer;
 
     trigger OnInsert()
     begin
