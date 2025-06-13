@@ -37,7 +37,7 @@ page 65400 "MNB Bonus List"
                 field(Status; Rec.Status)
                 {
                     ApplicationArea = All;
-                    ToolTip = "Specifies the bonus status.";
+                    ToolTip = 'Specifies the bonus status.';
                 }
             }
         }
