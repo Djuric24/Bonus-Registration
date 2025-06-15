@@ -10,5 +10,4 @@ tableextension 65400 "MNB Customer" extends Customer
             Editable = false;
         }
     }
-
 }
